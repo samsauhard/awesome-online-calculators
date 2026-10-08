@@ -2,6 +2,9 @@
 
 A curated list of the best free online calculators organized by category.
 
+## All-in-One Hubs
+- [CanYouCalculate](https://canyoucalculate.com) - 50+ free calculators & converters across 14 categories: finance, health, math, units, construction & more. No signup required.
+
 ## Financial Calculators
 - [Mortgage Calculator](https://go-calc.com/tools/mortgage-calculator/) - Calculate monthly payments
 - [Compound Interest Calculator](https://go-calc.com/tools/compound-interest-calculator/) - Project investment growth
